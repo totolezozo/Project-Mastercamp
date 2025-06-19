@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
 # src/enrich_cve.py
 
+
+#Étape 2 : Extraction des CVE
+#Ensuite, on accède aux fichiers JSON pour identifier les CVE mentionnées.
+
 import os
 import json
 import requests

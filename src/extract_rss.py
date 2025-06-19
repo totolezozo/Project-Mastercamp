@@ -1,6 +1,11 @@
 #!/usr/bin/env python3
 # src/extract_rss.py
 
+
+#Étape 1 : Extraction des Flux RSS
+#La première partie du projet consiste à extraire les avis et alertes de l'ANSSI.
+#Cela permet d'obtenir le Titre, Description, Date de publication et Lien vers le bulletin détaillé.
+
 import os
 import requests
 import feedparser
