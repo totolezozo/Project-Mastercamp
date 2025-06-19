@@ -1,6 +1,0 @@
-Contribution Projet "TD Final noté : Analyse des avis et alertes ANSSI avec enrichissement des CVE"
-
-Thomas CHOMETON : 25%
-Jonas COLAS : 25%
-Aurélien FERACCI : 25%
-Xavier FRACCARO : 25%
